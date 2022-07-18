@@ -1,0 +1,23 @@
+#parent,#header{
+    width: 100%;
+    height: 90px;
+    white-space: nowrap;
+    display: flex;
+   
+    
+}
+.a {
+    /* display: inline-block; */
+    /* float: left; */
+    flex:3;
+    width: 100px;
+    
+    
+}
+.b {
+    /* display: inline-block; */
+    /* float: left; */
+    flex:1;    
+    
+}
+
